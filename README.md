@@ -1,0 +1,1 @@
+Here are models of various mechanical pencil related items. There are .STEP and .STL files for normal use, and .GLB/.GLTF files for textures and colour.
